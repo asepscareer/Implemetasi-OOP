@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ImplementasiOOP\bin\Debug\ImplementasiOOP.exe.config
+C:\Users\asus\source\repos\ImplementasiOOP\bin\Debug\ImplementasiOOP.exe
+C:\Users\asus\source\repos\ImplementasiOOP\bin\Debug\ImplementasiOOP.pdb
+C:\Users\asus\source\repos\ImplementasiOOP\obj\Debug\ImplementasiOOP.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\ImplementasiOOP\obj\Debug\ImplementasiOOP.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ImplementasiOOP\obj\Debug\ImplementasiOOP.exe
+C:\Users\asus\source\repos\ImplementasiOOP\obj\Debug\ImplementasiOOP.pdb
